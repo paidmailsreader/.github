@@ -6,6 +6,8 @@
 
 [Скачать](https://github.com/paidmailsreader/paidmailsreader.github.io/releases/download/1.6.8/pmr_setup.exe)
 
+[Скачать сервер ключей](https://github.com/paidmailsreader/paidmailsreader.github.io/releases/download/1.6.8/pmr-key-server.exe)
+
 [Готовые настройки спонсоров для импорта](https://github.com/paidmailsreader/paidmailsreader.github.io/releases/download/1.6.8/sponsors.rar)
 
 [Инструкция по установке сервера ключей](https://github.com/paidmailsreader/paidmailsreader.github.io)
